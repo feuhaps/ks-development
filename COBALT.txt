@@ -1,0 +1,14 @@
+Kuali Studient (Applied to ks-core-impl
+
+===========
+Note on compiling:
+
+Download Oracle JDBC driver from
+	http://www.oracle.com/technetwork/apps-tech/jdbc-112010-090769.html
+and install with
+	mvn install:install-file -Dfile=c:\_BUFFER\ojdbc6_g_11.2.0.2.jar -DgroupId=com.oracle -DartifactId=ojdbc6_g -Dversion=11.2.0.2 -Dpackaging=jar
+to local Maven repository. 
+
+Then install with
+	mvn install -DskipTests
+to make sure, all dependencies are downloaded.
