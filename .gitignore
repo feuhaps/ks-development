@@ -2,3 +2,5 @@
 .project
 .classpath
 target
+ks-core/ks-common/ks-common-web/src/main/webapp/registration
+ks-enroll/ks-enroll-ui/src/main/angular/registration/node
