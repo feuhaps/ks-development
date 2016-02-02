@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-jdbc/3.2.3.RELEASE/spring-jdbc-3.2.3.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-beans/3.2.3.RELEASE/spring-beans-3.2.3.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/3.2.3.RELEASE/spring-core-3.2.3.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" sourcepath="M2_REPO/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-tx/3.2.3.RELEASE/spring-tx-3.2.3.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" sourcepath="M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-aop/3.2.3.RELEASE/spring-aop-3.2.3.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/kuali/common/kuali-impex-export/3.0.8/kuali-impex-export-3.0.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/kuali/common/kuali-util/4.4.10/kuali-util-4.4.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15.jar" sourcepath="M2_REPO/org/codehaus/plexus/plexus-utils/3.0.15/plexus-utils-3.0.15-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/jcraft/jsch/0.1.50/jsch-0.1.50.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-io/commons-io/2.4/commons-io-2.4.jar" sourcepath="M2_REPO/commons-io/commons-io/2.4/commons-io-2.4-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/kuali/commons/commons-beanutils/1.8.3-kuali-4/commons-beanutils-1.8.3-kuali-4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-context/3.2.3.RELEASE/spring-context-3.2.3.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-expression/3.2.3.RELEASE/spring-expression-3.2.3.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jasypt/jasypt/1.9.1/jasypt-1.9.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/jasypt/jasypt-spring31/1.9.1/jasypt-spring31-1.9.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/jcl-over-slf4j/1.7.5/jcl-over-slf4j-1.7.5.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/persistence/org.eclipse.persistence.moxy/2.5.1/org.eclipse.persistence.moxy-2.5.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/persistence/org.eclipse.persistence.core/2.5.1/org.eclipse.persistence.core-2.5.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/persistence/org.eclipse.persistence.asm/2.5.1/org.eclipse.persistence.asm-2.5.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/persistence/org.eclipse.persistence.antlr/2.5.1/org.eclipse.persistence.antlr-2.5.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/guava/guava/16.0.1/guava-16.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/kuali/common/kuali-jdbc/3.1.10/kuali-jdbc-3.1.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/kuali/common/kuali-threads/1.0.10/kuali-threads-1.0.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-log4j12/1.7.6/slf4j-log4j12-1.7.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16.jar" sourcepath="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/kuali/common/kuali-sql/2.1.4/kuali-sql-2.1.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/kuali/common/kuali-impex-model/3.0.8/kuali-impex-model-3.0.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/liquibase/liquibase-core/3.0.0-rc1/liquibase-core-3.0.0-rc1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/yaml/snakeyaml/1.12/snakeyaml-1.12.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/kuali/common/kuali-impex-producer/3.0.8/kuali-impex-producer-3.0.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar" sourcepath="M2_REPO/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/kuali/common/kuali-deploy/3.0.8/kuali-deploy-3.0.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/kuali/common/kuali-http/1.0.8/kuali-http-1.0.8.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar" sourcepath="M2_REPO/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.2/commons-codec-1.2.jar"/>
+</classpath>

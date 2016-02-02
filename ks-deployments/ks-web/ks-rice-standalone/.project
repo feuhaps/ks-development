@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>ks-rice-standalone</name>
+  <comment>Kuali Student Rice Standalone. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects>
+    <project>ks-enroll-api</project>
+    <project>ks-core-api</project>
+    <project>ks-common-api</project>
+    <project>ks-lum-api</project>
+    <project>ks-ap-api</project>
+    <project>ks-enroll-rice</project>
+    <project>ks-standard-sec</project>
+    <project>ks-common-util</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>

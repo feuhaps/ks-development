@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>ks-common-ui</name>
+  <comment>Kuali Student is a modular, open source, standards-based next generation student system that offers a flexible, scalable,
+    cost-effective system that can be configured to meet the business requirements of any higher education institution. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects>
+    <project>ks-common-util</project>
+    <project>ks-common-api</project>
+    <project>ks-core-api</project>
+    <project>ks-common-test</project>
+    <project>ks-common-impl</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>

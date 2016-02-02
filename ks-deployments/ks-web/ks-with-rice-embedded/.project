@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>ks-with-rice-embedded</name>
+  <comment>KS with Embedded Rice components accessing remote Rice Server. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects>
+    <project>ks-core-impl</project>
+    <project>ks-common-util</project>
+    <project>ks-common-api</project>
+    <project>ks-core-api</project>
+    <project>ks-common-impl</project>
+    <project>ks-core-krms</project>
+    <project>ks-common-ui</project>
+    <project>ks-core-ui</project>
+    <project>ks-enroll-ui</project>
+    <project>ks-enroll-impl</project>
+    <project>ks-enroll-api</project>
+    <project>ks-lum-api</project>
+    <project>ks-ap-api</project>
+    <project>ks-lum-impl</project>
+    <project>ks-lum-ui</project>
+    <project>ks-lum-program</project>
+    <project>ks-lum-ui-common</project>
+    <project>ks-lum-rice</project>
+    <project>ks-common-ksink</project>
+    <project>ks-common-web</project>
+    <project>ks-cm-deployment-resources</project>
+    <project>ks-ap-deployment-resources</project>
+    <project>ks-fa-deployment-resources</project>
+    <project>ks-enroll-deployment-resources</project>
+    <project>ks-enroll-rice</project>
+    <project>ks-cm-krad</project>
+    <project>ks-sts</project>
+    <project>ks-standard-sec</project>
+    <project>ks-ap-framework</project>
+    <project>ks-ap-impl</project>
+    <project>ks-ap-ui</project>
+    <project>ks-ap-web</project>
+    <project>ks-fa-api</project>
+    <project>ks-fa-impl</project>
+    <project>ks-fa-ui</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>

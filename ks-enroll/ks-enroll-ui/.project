@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+  <name>ks-enroll-ui</name>
+  <comment>KS Enrollment. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+  <projects>
+    <project>ks-core-krms</project>
+    <project>ks-common-util</project>
+    <project>ks-common-api</project>
+    <project>ks-core-api</project>
+    <project>ks-enroll-impl</project>
+    <project>ks-enroll-api</project>
+    <project>ks-lum-api</project>
+    <project>ks-ap-api</project>
+    <project>ks-common-impl</project>
+    <project>ks-lum-impl</project>
+    <project>ks-core-impl</project>
+    <project>ks-common-ui</project>
+    <project>ks-core-ui</project>
+    <project>ks-lum-ui</project>
+    <project>ks-lum-program</project>
+    <project>ks-lum-ui-common</project>
+    <project>ks-lum-rice</project>
+  </projects>
+  <buildSpec>
+    <buildCommand>
+      <name>org.eclipse.jdt.core.javabuilder</name>
+    </buildCommand>
+  </buildSpec>
+  <natures>
+    <nature>org.eclipse.jdt.core.javanature</nature>
+  </natures>
+</projectDescription>
